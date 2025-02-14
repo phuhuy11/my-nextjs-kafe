@@ -4,7 +4,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { FaInstagram, FaFacebook } from "react-icons/fa";
 
-const CafeUno: React.FC = () => {
+const kafeuno: React.FC = () => {
   const [menuOpen, setMenuOpen] = useState<boolean>(false);
 
   return (
@@ -49,7 +49,7 @@ const CafeUno: React.FC = () => {
         {[...Array(6)].map((_, i) => (
           <Card key={i}>
             <CardContent className="h-20 flex items-center justify-center bg-gray-200">
-              <span className="text-sm">Kafe {i + 1}</span>
+              <span className="text-sm">kafe {i + 1}</span>
             </CardContent>
           </Card>
         ))}
@@ -58,4 +58,4 @@ const CafeUno: React.FC = () => {
   );
 };
 
-export default CafeUno;
+export default kafeuno;
