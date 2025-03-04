@@ -1,11 +1,11 @@
 import React from 'react';
 import logo from './logo.gif';
 import './App.css';
-import Header from './functions/Header';
-import ImageSection from './functions/ImageSection';
-import AboutSection from './functions/AboutSection';
-import OpeningHours from './functions/OpeningHours';
-import ImageCarousel from './functions/ImageCarousel';
+import Header from './functions/Header.tsx';
+import ImageSection from './functions/ImageSection.tsx';
+import AboutSection from './functions/AboutSection.tsx';
+import OpeningHours from './functions/OpeningHours.tsx';
+import ImageCarousel from './functions/ImageCarousel.tsx';
 
 function App() {
   return (
