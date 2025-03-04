@@ -1,23 +1,20 @@
+import React from 'react';
 import logo from './logo.gif';
 import './App.css';
+import Header from './functions/Header';
+import ImageSection from './functions/ImageSection';
+import AboutSection from './functions/AboutSection';
+import OpeningHours from './functions/OpeningHours';
+import ImageCarousel from './functions/ImageCarousel';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+      <ImageSection />
+      <AboutSection />
+      <OpeningHours />
+      <ImageCarousel />
     </div>
   );
 }
