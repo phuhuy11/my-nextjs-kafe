@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.gif';
 import './App.css';
 import Header from './functions/Header.tsx';
 import ImageSection from './functions/ImageSection.tsx';
