@@ -2,14 +2,18 @@ import React from "react";
 
 function ImageSection() {
   return (
-    <img
-      src="/images/cafe-uno.png"
-      alt="Café UNO"
-      className="w-full h-auto object-cover"
-      width={800}
-      height={300}
-    />
+    <div className="w-full flex justify-center">
+      <img
+        src="/images/cafeunofirst.png"
+        alt="Café UNO"
+        style={{ 
+          maxWidth: "100vw",
+          height: "auto" 
+        }}
+        loading="lazy"
+      />
+    </div>
   );
 }
 
-export default ImageSection; 
+export default ImageSection;
