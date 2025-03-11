@@ -2,20 +2,19 @@ import React from "react";
 
 function Navbar() {
   return (
-    <nav className="fixed top-0 left-0 right-0 flex justify-between items-center py-2 px-4 text-white shadow-md z-10">
-      <div className="h-[8vh] max-h-16 min-h-10 ">
-        <button> 
-          <img src={"./images/cafe_uno_100.png"}
-          
+    <div className="bg-[#434343] w-full h-[8vh] max-h-16 min-h-10 flex items-center px-10">
+      <button 
+        className="bg-[#434343] p-2 rounded border-0 focus:outline-none" 
+        style={{ backgroundColor: 'black', WebkitAppearance: 'none' }}
+      > 
+        <img 
+          src={"./images/cafe_uno_5.png"}
           alt="CAFÉ UNO"
-          style={{ 
-            maxWidth: "auto",
-            height: "auto" 
-          }}
-          loading="lazy"/>
-        </button>
-      </div>
-    </nav>
+          className="w-auto h-[5vh] max-h-12"
+          loading="lazy"
+        />
+      </button>
+    </div>
   );
 }
 
