@@ -1,0 +1,491 @@
+.kafe-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 430px;
+    height: 1967px;
+}
+.kaffe {
+    position: absolute;
+    top: 83.24px;
+    left: 27.49px;
+    font-size: 60px;
+    font-weight: 600;
+    color: #000;
+    display: inline-block;
+    width: 170.1px;
+    height: 89.2px;
+}
+.kanel-icon {
+    position: absolute;
+    top: 128.91px;
+    left: 0.39px;
+    width: 360.6px;
+    height: 360.6px;
+    object-fit: cover;
+}
+.green-box2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #20310e;
+    width: 360px;
+    height: 129px;
+}
+.kanel-bolle-30kr {
+    margin: 0;
+}
+.god-mat {
+    margin: 0;
+    font-size: 28px;
+}
+.kanel-bolle-30kr-container {
+    position: absolute;
+    top: 24.77px;
+    left: 3.3px;
+    font-weight: 600;
+    display: inline-block;
+    width: 360.7px;
+    height: 162.5px;
+}
+.line2-icon {
+    position: absolute;
+    top: 74px;
+    left: 51px;
+    max-height: 100%;
+    width: 265px;
+}
+.kanel {
+    position: absolute;
+    top: 1305px;
+    left: 29px;
+    background-color: #fff;
+    width: 360px;
+    height: 488px;
+    overflow: hidden;
+    text-align: center;
+}
+.waffle-icon {
+    position: absolute;
+    top: 128px;
+    left: 0px;
+    width: 360px;
+    height: 360px;
+    object-fit: cover;
+}
+.green-box21 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #20310e;
+    width: 360px;
+    height: 128px;
+}
+.vaffel-40kr-klasikeren-container {
+    position: absolute;
+    top: 17.16px;
+    left: 2.79px;
+    font-weight: 600;
+    display: inline-block;
+    width: 360.2px;
+    height: 110.9px;
+}
+.line2-icon1 {
+    position: absolute;
+    top: 63.94px;
+    left: 51.89px;
+    max-height: 100%;
+    width: 265px;
+}
+.waffle {
+    position: absolute;
+    top: 787px;
+    left: 28px;
+    background-color: #fff;
+    width: 360px;
+    height: 488px;
+    overflow: hidden;
+    text-align: center;
+}
+.green-box {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #20310e;
+    width: 362px;
+    height: 119px;
+}
+.machiato1 {
+    position: absolute;
+    top: 19.37px;
+    left: 129.31px;
+    font-weight: 600;
+    display: inline-block;
+    width: 231.7px;
+    height: 53.5px;
+}
+.line-icon {
+    position: absolute;
+    top: 70px;
+    left: 129px;
+    max-height: 100%;
+    width: 190.9px;
+}
+.r-smakk {
+    position: absolute;
+    top: 68.39px;
+    left: 129.31px;
+    font-size: 20px;
+    display: inline-block;
+    width: 165.9px;
+    height: 26.8px;
+}
+.machaito-1-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 119px;
+    height: 119px;
+    object-fit: cover;
+}
+.machiato {
+    position: absolute;
+    top: 638px;
+    left: 27px;
+    background-color: #fff;
+    width: 362px;
+    height: 119px;
+    overflow: hidden;
+}
+.line-icon1 {
+    position: absolute;
+    top: 70px;
+    left: 11px;
+    max-height: 100%;
+    width: 190.9px;
+}
+.svart1 {
+    position: absolute;
+    top: 19.61px;
+    left: 10.43px;
+    font-weight: 600;
+    display: inline-block;
+    width: 127.7px;
+    height: 53.7px;
+}
+.klsvart {
+    position: absolute;
+    top: 68.8px;
+    left: 10.43px;
+    font-size: 20px;
+    display: inline-block;
+    width: 174.5px;
+    height: 26.9px;
+}
+.latte-1 {
+    position: absolute;
+    top: 0px;
+    left: 224.41px;
+    width: 118.8px;
+    height: 118.8px;
+}
+.svartest-kaffe-1 {
+    position: absolute;
+    top: 0.05px;
+    left: 243.06px;
+    width: 118.9px;
+    height: 118.9px;
+    object-fit: cover;
+}
+.svart {
+    position: absolute;
+    top: 489px;
+    left: 27px;
+    background-color: #fff;
+    width: 362px;
+    height: 119px;
+    overflow: hidden;
+    font-size: 40px;
+}
+.americano1 {
+    position: absolute;
+    top: 19.82px;
+    left: 129.52px;
+    font-weight: 600;
+    display: inline-block;
+    width: 232.5px;
+    height: 53.5px;
+}
+.god-bless-usa {
+    position: absolute;
+    top: 68.85px;
+    left: 129.52px;
+    font-size: 20px;
+    display: inline-block;
+    width: 166.5px;
+    height: 26.8px;
+}
+.line-icon2 {
+    position: absolute;
+    top: 68.38px;
+    left: 131.55px;
+    max-height: 100%;
+    width: 190.9px;
+}
+.americano {
+    position: absolute;
+    top: 340px;
+    left: 27px;
+    background-color: #fff;
+    width: 362px;
+    height: 119px;
+    overflow: hidden;
+}
+.latte1 {
+    position: absolute;
+    top: 20.53px;
+    left: 11px;
+    font-weight: 600;
+    display: inline-block;
+    width: 111.9px;
+    height: 53.8px;
+}
+.kaffe-det-er {
+    position: absolute;
+    top: 69.65px;
+    left: 11px;
+    font-size: 20px;
+    display: inline-block;
+    width: 179.9px;
+    height: 26.9px;
+}
+.latte-icon {
+    position: absolute;
+    top: 0px;
+    left: 243px;
+    width: 119px;
+    height: 119px;
+    object-fit: cover;
+}
+.latte {
+    position: absolute;
+    top: 191px;
+    left: 27px;
+    background-color: #fff;
+    width: 362px;
+    height: 119px;
+    overflow: hidden;
+    font-size: 40px;
+}
+.kafe {
+    position: absolute;
+    top: 1004px;
+    left: 0px;
+    width: 430px;
+    height: 1967px;
+    overflow: hidden;
+    font-size: 34px;
+    background-color: #f6e9cc;
+}
+.time-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #7d290f;
+    width: 430px;
+    height: 236px;
+}
+.pningstider1 {
+    font-weight: 500;
+}
+.pningstider {
+    margin: 0;
+    font-size: 32px;
+}
+.pningstider-tirsdag-torsdag-container {
+    position: absolute;
+    top: 11px;
+    left: calc(50% - 194.21px);
+    display: inline-block;
+    width: 393.9px;
+    height: 232px;
+}
+.time {
+    position: absolute;
+    top: 768px;
+    left: 0px;
+    width: 430px;
+    height: 236px;
+    overflow: hidden;
+}
+.kafeuno-kaffe-icon {
+    position: absolute;
+    top: 450px;
+    left: 0px;
+    width: 430px;
+    height: 318px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.tekst1-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f6e9cc;
+    width: 430px;
+    height: 141px;
+}
+.c {
+    font-size: 30px;
+}
+.caf-uno-er-container {
+    position: absolute;
+    top: 0px;
+    left: 13px;
+    font-weight: 500;
+    display: inline-block;
+    width: 333px;
+    height: 120px;
+}
+.tekst1 {
+    position: absolute;
+    top: 309px;
+    left: 0px;
+    width: 430px;
+    height: 141px;
+    overflow: hidden;
+    color: #000;
+}
+.kafeuno-1-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 430px;
+    height: 309px;
+    object-fit: cover;
+}
+.gradient {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: linear-gradient(206.83deg, rgba(238, 238, 238, 0), #7d290f);
+    width: 430px;
+    height: 309px;
+}
+.en-mteplass {
+    position: absolute;
+    top: 112.64px;
+    left: 43.46px;
+    font-weight: 600;
+    display: inline-block;
+    width: 318.8px;
+    height: 36.9px;
+}
+.for-ungdom {
+    position: absolute;
+    top: 143.54px;
+    left: 96.32px;
+    font-weight: 600;
+    display: inline-block;
+    width: 318.8px;
+    height: 36.9px;
+}
+.kafeuno-1-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 430px;
+    height: 309px;
+}
+.top {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 430px;
+    height: 309px;
+    overflow: hidden;
+    font-size: 30px;
+}
+.fottter-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #7d290f;
+    width: 430px;
+    height: 146px;
+}
+.footer-logo-icon {
+    position: absolute;
+    top: 17.35px;
+    left: 279.95px;
+    width: 136.1px;
+    height: 32.4px;
+    object-fit: cover;
+}
+.fottter-item {
+    position: absolute;
+    top: 58px;
+    left: 13.03px;
+    max-height: 100%;
+    width: 406.1px;
+}
+.fottter {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 430px;
+    height: 146px;
+}
+.facebook-icon {
+    width: 20px;
+    position: relative;
+    height: 20px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.facebook {
+    position: absolute;
+    top: 80px;
+    left: 323px;
+    border-radius: 32px;
+    background-color: #2c2c2c;
+    border: 1px solid #2c2c2c;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 12px;
+}
+.instagram {
+    position: absolute;
+    top: 80px;
+    left: 375px;
+    border-radius: 32px;
+    background-color: #2c2c2c;
+    border: 1px solid #2c2c2c;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 12px;
+}
+.footer {
+    position: absolute;
+    top: 2971px;
+    left: 0px;
+    width: 430px;
+    height: 146px;
+    overflow: hidden;
+}
+.layout {
+    width: 100%;
+    background-color: #fff;
+    height: auto;
+    text-align: left;
+    font-size: 19px;
+    color: #fff;
+    font-family: Poppins;
+}
+
