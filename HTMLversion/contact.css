@@ -1,0 +1,203 @@
+.fottter-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #7d290f;
+    width: 430px;
+    height: 146px;
+}
+.footer-logo-icon {
+    position: absolute;
+    top: 17.35px;
+    left: 279.95px;
+    width: 136.1px;
+    height: 32.4px;
+    object-fit: cover;
+}
+.fottter-item {
+    position: absolute;
+    top: 58px;
+    left: 13.03px;
+    max-height: 100%;
+    width: 406.1px;
+}
+.fottter {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 430px;
+    height: 146px;
+}
+.facebook-icon {
+    width: 20px;
+    position: relative;
+    height: 20px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.facebook {
+    position: absolute;
+    top: 80px;
+    left: 323px;
+    border-radius: 32px;
+    background-color: #2c2c2c;
+    border: 1px solid #2c2c2c;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 12px;
+}
+.instagram {
+    position: absolute;
+    top: 80px;
+    left: 375px;
+    border-radius: 32px;
+    background-color: #2c2c2c;
+    border: 1px solid #2c2c2c;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 12px;
+}
+.footer {
+    position: absolute;
+    top: 1194px;
+    left: 0px;
+    width: 430px;
+    height: 146px;
+    overflow: hidden;
+}
+.melding1 {
+    position: absolute;
+    top: 42.8px;
+    left: 2px;
+    background-color: #fff8f8;
+    width: 324px;
+    height: 328.8px;
+}
+.melding2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 500;
+    display: inline-block;
+    width: 120px;
+    height: 29.2px;
+}
+.melding {
+    position: absolute;
+    top: 319.21px;
+    left: 52px;
+    width: 326px;
+    height: 371.6px;
+}
+.telefon1 {
+    position: absolute;
+    top: 39.88px;
+    left: 2px;
+    background-color: #fff8f8;
+    width: 324px;
+    height: 47.7px;
+}
+.telefon {
+    position: absolute;
+    top: 218.05px;
+    left: 52px;
+    width: 326px;
+    height: 87.5px;
+}
+.epost1 {
+    position: absolute;
+    top: 34.19px;
+    left: 2px;
+    background-color: #fff8f8;
+    width: 324px;
+    height: 47.7px;
+}
+.epost2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 500;
+    display: inline-block;
+    width: 71px;
+    height: 34px;
+}
+.epost {
+    position: absolute;
+    top: 132.46px;
+    left: 52px;
+    width: 326px;
+    height: 81.8px;
+}
+.navn1 {
+    position: absolute;
+    top: 33.64px;
+    left: 0px;
+    background-color: #fff8f8;
+    width: 324px;
+    height: 47.7px;
+}
+.navn {
+    position: absolute;
+    top: 42px;
+    left: 52px;
+    width: 324px;
+    height: 81.3px;
+}
+.form {
+    position: absolute;
+    top: 414px;
+    left: 0px;
+    width: 430px;
+    height: 780px;
+    overflow: hidden;
+    background: #20310E;
+}
+.kontakt-oss-bilde-icon {
+    position: absolute;
+    top: 0.24px;
+    left: 11.52px;
+    width: 391.3px;
+    height: 413.5px;
+    object-fit: cover;
+}
+.header-kontakt-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: radial-gradient(50% 50% at 50% 50%, rgba(125, 41, 15, 0), #7d290f);
+    width: 430px;
+    height: 414px;
+}
+.kontakt-oss1 {
+    position: absolute;
+    top: 184.94px;
+    left: 89.45px;
+    font-weight: 600;
+    display: inline-block;
+    width: 281.9px;
+    height: 84.6px;
+}
+.header-kontakt {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 430px;
+    height: 414px;
+    font-size: 40px;
+}
+.kontakt-oss {
+    width: 100%;
+    background-color: #20310e;
+    height: auto;
+    text-align: left;
+    font-size: 24px;
+    color: #fff;
+    font-family: Poppins;
+}
+
