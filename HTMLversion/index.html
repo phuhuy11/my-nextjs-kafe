@@ -142,16 +142,16 @@
     
       <!-- Mobile Bottom Navigation -->
       <nav class="mobile-bottom-nav">
-          <a href="#" class="nav-item active" data-page="home">
+          <a href="index.html" class="nav-item active" data-page="home">
               <div class="nav-icon">⌂</div>
               <div class="nav-text">Hjem</div>
           </a>
-          <a href="#" class="nav-item" data-page="blog">
-              <div class="nav-icon">🔖</div>
+          <a href="about.html" class="nav-item" data-page="about">
+              <div class="nav-icon">👤</div>
               <div class="nav-text">Om oss</div>
           </a>
-          <a href="#" class="nav-item" data-page="about">
-              <div class="nav-icon">👤</div>
+          <a href="contact.html" class="nav-item" data-page="contact">
+              <div class="nav-icon">📞</div>
               <div class="nav-text">Kontakt oss</div>
           </a>
       </nav>
@@ -163,18 +163,9 @@
           
           navItems.forEach(item => {
               item.addEventListener('click', function(e) {
-                  e.preventDefault();
-                  
-                  // Remove active class from all items
-                  navItems.forEach(navItem => {
-                      navItem.classList.remove('active');
-                  });
-                  
-                  // Add active class to clicked item
-                  this.classList.add('active');
-                  
+                  // Prevent default behavior only if you are handling navigation manually
+                  // e.preventDefault(); // Uncomment this line if you are handling navigation manually
                   // Here you would normally navigate to another page
-                  // or change content based on the clicked item
                   console.log(`Navigated to ${this.dataset.page}`);
               });
           });
