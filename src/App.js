@@ -6,8 +6,8 @@ import Header from './functions/Navbar.tsx';
 import ImageSection from './functions/ImageSection.tsx';
 import AboutSection from './functions/AboutSection.tsx';
 import OpeningHours from './functions/OpeningHours.tsx';
-import ImageCarousel from './functions/ImageCarousel.tsx';
-
+import CoffeeMenu from "./functions/CoffeeMenu";
+import PastrySection from "./functions/PastrySection";
 
 function App() {
   const [windowDimension, setWindowDimension] = useState(null);
@@ -35,7 +35,8 @@ function App() {
         <ImageSection />
         <AboutSection />
         <OpeningHours />
-        <ImageCarousel />
+        <CoffeeMenu />
+        <PastrySection />
       </div>
 
       {isMobile ? (

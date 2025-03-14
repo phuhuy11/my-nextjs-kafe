@@ -98,15 +98,15 @@
         				<p class="kanel-bolle-30kr">Mandag, Onsdag, Fredag, Søndag</p>
       			</div>
     		</div>
-    		<img class="kafeuno-kaffe-icon" alt="" src="img/Cafe_UNO_frontside.png">
+    		<img class="kafeuno-kaffe-icon" alt="" src="img/Cafe uno bakgrunn_22.png">
     		
     		<div class="tekst1">
       			<div class="tekst1-child">
       			</div>
       			<div class="caf-uno-er-container">
         				<p class="kanel-bolle-30kr">
-          					<span class="c">C</span>
-          					<span>afé UNO er en ungdomskafe i hjertet av Hamar sentrum.</span>
+          					<span class="c"></span>
+          					<span>Café UNO er en ungdomskafe i hjertet av Hamar sentrum.</span>
         				</p>
         				<p class="kanel-bolle-30kr">UNO har en kaffebar med god kvalitet til snille priser.</p>
       			</div>
@@ -139,10 +139,46 @@
         				
       			</div>
     		</div>
+    
+      <!-- Mobile Bottom Navigation -->
+      <nav class="mobile-bottom-nav">
+          <a href="#" class="nav-item active" data-page="home">
+              <div class="nav-icon">⌂</div>
+              <div class="nav-text">Hjem</div>
+          </a>
+          <a href="#" class="nav-item" data-page="blog">
+              <div class="nav-icon">🔖</div>
+              <div class="nav-text">Om oss</div>
+          </a>
+          <a href="#" class="nav-item" data-page="about">
+              <div class="nav-icon">👤</div>
+              <div class="nav-text">Kontakt oss</div>
+          </a>
+      </nav>
   	</div>
   	
-  	
-  	
-  	
+  	<script>
+      document.addEventListener('DOMContentLoaded', function() {
+          const navItems = document.querySelectorAll('.nav-item');
+          
+          navItems.forEach(item => {
+              item.addEventListener('click', function(e) {
+                  e.preventDefault();
+                  
+                  // Remove active class from all items
+                  navItems.forEach(navItem => {
+                      navItem.classList.remove('active');
+                  });
+                  
+                  // Add active class to clicked item
+                  this.classList.add('active');
+                  
+                  // Here you would normally navigate to another page
+                  // or change content based on the clicked item
+                  console.log(`Navigated to ${this.dataset.page}`);
+              });
+          });
+      });
+  </script>
 </body>
 </html>
